@@ -12,10 +12,6 @@
 
 > Contains various business and technology focused journals, including those geared towards Marketing and Public Relations.
 
-## [LexisNexis Academic](http://summit.csuci.edu:2048/login?url=http://www.lexisnexis.com/us/lnacademic)
-
-> _LexisNexis Academic _ contains news, legal cases and information on companies, countries and people.
-
 ## [GenderWatch](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=14397#sform)
 
 > _GenderWatch_contains scholarly journals, magazines, newspapers, newsletters, regional publications and books that focus on gender issues.
