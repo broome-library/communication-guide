@@ -1,8 +1,25 @@
+/* 
+* main-content 
+*/
+
+/* libguide heading */
 .markdown-section > *:firstchild {
     background-color: #cb132a;
     color: #ffffff;    
     }
-
+/* forground */
+.page-inner{
+    background-color: #ffffff;
+    }
+/* background */
 .page-wrapper {
+    background-color: #f3f2e9; 
+    }
+
+/* 
+* side-bar
+*/
+
+.book-summary{
     background-color: #f3f2e9; 
     }
