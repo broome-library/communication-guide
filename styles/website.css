@@ -1,44 +1,40 @@
 /************************  
 / main-content 
 *************************/
-
-/* libguide chapter heading */
-.markdown-section h1 {
-	font-size: 2em;
-	color: white;
-	background-color: #cb132a;
-	padding-left: 1em;
-}
-/* foreground */
-.page-inner{
-    background-color: #ffffff;
-    }
-/* background */
-.book-body {
+.book-body { /* background */
     background-color: #f3f2e9; 
+    }
+
+.markdown-section h1 { /* libguide chapter heading */
+    background-color: #cb132a;
+    color:            #ffffff;
+    font-size:        2em;	
+    padding-left:     1em;
+    }
+
+.page-inner { /* foreground */
+    background-color: #ffffff;
     }
 
 /************************  
 / side-bar
 ************************/
-
-/* background color */
-.book-summary{
+.book-summary { /* background color */
     background-color: #f3f2e9; 
     }
 
-    /* hover style */
-.book-summary ul.summary li a:hover {
-    color: #ffffff;
+.book-summary ul.summary li a:hover { /* hover style */   
     background-color: #cb132a;
+    color:            #ffffff;
+    text-decoration:  none;
     }
-/* link to guide description */
-.custom-link {
-    font-size: larger;
+
+.custom-link { /* link to guide description */
+    font-size:        larger;
     }
-/* hide gitbook link */
-a.gitbook-link {
-    display: none !important;
+
+a.gitbook-link { /* hide gitbook link */
+    display:          none !important;
     }
 
 /*********************** 
