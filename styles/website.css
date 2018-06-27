@@ -37,8 +37,8 @@
     font-size: larger;
     }
 /* hide gitbook link */
-.gitbook-link {
-    display: none;
+a.gitbook-link {
+    display: none !important;
     }
 
 /*********************** 
