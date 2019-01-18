@@ -2,7 +2,7 @@
 
 ## [Academic Search Premier](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph)
 
-> _Academic Search Premier _ contains journal, magazine and newspaper articles on a broad range of topics
+> _Academic Search Premier_ contains journal, magazine and newspaper articles on a broad range of topics
 
 ## [Communication and Mass Media Complete](http://summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=ufh)
 
