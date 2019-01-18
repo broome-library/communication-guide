@@ -20,6 +20,10 @@
 
 > _GenderWatch_ contains scholarly journals, magazines, newspapers, newsletters, regional publications and books that focus on gender issues.
 
+## [Linguistics and Language Behavior Abstracts \(LLBA\)](http://summit.csuci.edu/login?url=https://search.proquest.com/llba?accountid=7284)
+
+> Contains international literature in linguistics and related disciplines in the language sciences, including phonetics.
+
 ## [SAGE Journals Online](http://summit.csuci.edu:2048/login?url=http://online.sagepub.com/)
 
 > _SAGE _ offers a wide variety of journals, including the Communications focused _Media, Society, and Culture._
