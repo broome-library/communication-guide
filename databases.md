@@ -8,6 +8,10 @@
 
 > _Communication and Mass Media Complete _ contains articles from the fields of Communication and Mass Media.
 
+## [Communications and Mass Media Collection \(Gale\)](http://summit.csuci.edu/login?url=http://infotrac.galegroup.com/itweb/csuci?db=PPCM)
+
+> Nearly 3 million articles from more than 400 journals covering all aspects of the communications field, including advertising, public relations, linguistics, and literature.
+
 ## [Emerald](http://summit.csuci.edu:2048/login?url=http://www.emeraldinsight.com/)
 
 > Contains various business and technology focused journals, including those geared towards Marketing and Public Relations.
