@@ -14,8 +14,11 @@
 
 ## [GenderWatch](http://summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=14397#sform)
 
-> _GenderWatch_contains scholarly journals, magazines, newspapers, newsletters, regional publications and books that focus on gender issues.
+> _GenderWatch_ contains scholarly journals, magazines, newspapers, newsletters, regional publications and books that focus on gender issues.
 
 ## [SAGE Journals Online](http://summit.csuci.edu:2048/login?url=http://online.sagepub.com/)
 
 > _SAGE _ offers a wide variety of journals, including the Communications focused _Media, Society, and Culture._
+
+
+
