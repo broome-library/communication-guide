@@ -20,10 +20,6 @@
 
 > A free TED video on what makes great speeches. An interesting video for students wishing for help in their own speeches.
 
-## [Power Point Presentations](http://www.microsoft.com/atwork/skills/presentations.aspx)
-
-> A free guide provided by _Microsoft_ designed to improve Powerpoint presentations.
-
 ## [Purdue OWL: Logic in Argumentative Writing](http://owl.english.purdue.edu/owl/resource/659/02/)
 
 > A guide provided by Purdue University to assist students with creating logical arguments in their writing.
